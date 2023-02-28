@@ -1,10 +1,10 @@
 # Apriori-Algorithm-Implementation
 
-##Dataset Format: File Attached in the .csv format
+## Dataset Format: File Attached in the .csv format
 
-##Support Count: 2
+## Support Count: 2
 
-##Output: 	
+## Output: 	
   itemset    	sup
 0	  1	          8
 1	  2	          6
